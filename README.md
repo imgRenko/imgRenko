@@ -3,5 +3,5 @@
 TODO :  
 * Complete the inspector tools  
 * Improve THSTG Framework  
-* Improve Rendering Framework  
+* Improve Rendering Framework  (Post-Processing)
 
